@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Shtreet</string>
+    <string name="prendre_une_photo">Prendre une photo</string>
+    <string name="choisir_une_n_photo">Choisir une \n photo</string>
+    <string name="afficher_n_origine">Afficher \n origine</string>
+    <string name="copier_dans_le_presse_papier">Copier dans le presse papier</string>
+</resources>
